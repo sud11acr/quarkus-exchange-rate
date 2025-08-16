@@ -1,4 +1,4 @@
-# ms-customer
+# exchange-rate
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
